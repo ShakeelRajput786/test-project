@@ -8,6 +8,9 @@ let HomePage = () => {
       <div>Il</div>
       yas
       <div>shah</div>
+      <NavBar />
+      <NavBar />
+      <div>This is Home Page After commit 123</div>
     </>
   );
 };
