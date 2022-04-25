@@ -1,0 +1,12 @@
+.menu {
+    margin: 0px 20px;
+    font-size: 30px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+
+}
