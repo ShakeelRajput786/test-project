@@ -5,7 +5,7 @@ let HomePage=()=>{
     return(
         <>
             <NavBar/>
-            <div>This is Home Page</div>
+            <div>This is Home Page After commit</div>
         </>
 
     );
