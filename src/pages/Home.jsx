@@ -5,8 +5,7 @@ let HomePage = () => {
     <>
       <NavBar />
       <NavBar />
-      <NavBar />
-      <div>This is Home Page After commit</div>
+      <div>This is Home Page After commit 123</div>
     </>
   );
 };
